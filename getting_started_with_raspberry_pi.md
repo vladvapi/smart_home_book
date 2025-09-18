@@ -1,4 +1,4 @@
-# Pins:
+# Pins (pg. 32):
 
 <ins>**GPIO (General Purpose Input Output):**</ins> connect devices to interact with the outside world like sensors and outputs like LEDs, relays, and motors.
 
