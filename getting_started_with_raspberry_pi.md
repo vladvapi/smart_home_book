@@ -35,6 +35,6 @@
   - PCM_DIN = RX (audio input to pi).
   - PCM_DOUT = TX (audio output from pi). 
 
-<ins>**UART (Universal Asynchronous Receiver/Transmitter):**</ins>\
-  TX = Transmit (this pin is used by the device to send data out; data flows from this device → to the RX pin of the other device).\
-  RX = Receive (This pin is used by the device to receive incoming data; data flows into this device from the TX of the other device).
+<ins>**UART (Universal Asynchronous Receiver/Transmitter):**</ins>
+  - TX = Transmit (this pin is used by the device to send data out; data flows from this device → to the RX pin of the other device).
+  - RX = Receive (This pin is used by the device to receive incoming data; data flows into this device from the TX of the other device).
